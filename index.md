@@ -18,4 +18,4 @@ My GitHub page is http://github.com/RaviRai05.
 
 * Lab 11
 
-    As we get to later in the year the labs got harder, nothing like the first two. What I had liked about this lab was one that I passed it both parts in one class session but also that I finally understood how to make for loops and if statements correctly. Passing this lab really made me happy as it wasn't easy in the slightest but I was able to complete it. 
+    As we got to later in the year the labs got harder, nothing like the first two. What I had liked about this lab was one that I passed it both parts in one class session but also that I finally understood how to make for loops and if statements correctly. Passing this lab really made me happy as it wasn't easy in the slightest but I was able to complete it. 
